@@ -79,6 +79,7 @@ header button {
 main {
     display: flex;
     padding: 0 2rem;
+    margin: 6rem 0;
 }
 main section {
     /* border: 2px solid orange; */
